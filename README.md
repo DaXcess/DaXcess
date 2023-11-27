@@ -4,17 +4,17 @@
   <strong>Catch me on</strong>
 </p>
 <p align="center">
-  <a href="https://x.com/@daxcess"><img src="https://img.shields.io/badge/@daxcess-000000?style=for-the-badge&logo=x" /></a>
-  <a href="https://discord.com/users/389786424142200835"><img src="https://img.shields.io/badge/%40rodabafilms-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
-  <a href="https://youtube.com/DaXcess"><img src="https://img.shields.io/badge/DaXcess-FF0000?style=for-the-badge&logo=youtube" /></a>
-  <a href="https://ko-fi.com/daxcess"><img src="https://img.shields.io/badge/DaXcess-ff5e5b?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
+  <a target="_blank" href="https://x.com/@daxcess"><img src="https://img.shields.io/badge/@daxcess-000000?style=for-the-badge&logo=x" /></a>
+  <a target="_blank" href="https://discord.com/users/389786424142200835"><img src="https://img.shields.io/badge/%40rodabafilms-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a target="_blank" href="https://youtube.com/DaXcess"><img src="https://img.shields.io/badge/DaXcess-FF0000?style=for-the-badge&logo=youtube" /></a>
+  <a target="_blank" href="https://ko-fi.com/daxcess"><img src="https://img.shields.io/badge/DaXcess-ff5e5b?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
 </p>
 
 # 👋 Hi there, I'm Daniel!
 
 > *Build cool sh\*t!*
 
-I'm a self-taught software developer from the Amsterdam region. I sometimes also dabble in [cybersecurity.](https://tryhackme.com/p/DaXcess)
+I'm a self-taught software developer from the Amsterdam region. I sometimes also dabble in [cybersecurity](https://tryhackme.com/p/DaXcess).
 
 Currently obsessed with Rust 🦀
 
