@@ -8,8 +8,8 @@
   <!--<a target="_blank" href="https://discord.com/users/389786424142200835"><img src="https://img.shields.io/badge/%40rodabafilms-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>-->
   <a target="_blank" href="https://youtube.com/DaXcess"><img src="https://img.shields.io/badge/DaXcess-FF0000?style=for-the-badge&logo=youtube" /></a>
   <a target="_blank" href="https://ko-fi.com/daxcess"><img src="https://img.shields.io/badge/DaXcess-ff5e5b?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
+  <a target="_blank" href="mailto:contact@daxcess.io"><img src="https://img.shields.io/badge/contact@daxcess.io-249ee4?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
-<p align="center"><i><sup>It is not recommended to try and reach me via email, I will not respond</sup></i></p>
 
 # 👋 Hi there, I'm Daniel!
 
