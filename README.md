@@ -24,7 +24,7 @@ Currently obsessed with Rust 🦀
 ![DaXcess' GitHub stats](https://github-readme-stats.vercel.app/api?username=daxcess&show_icons=true&theme=transparent&border_color=30363d)
 
 ## Languages / Tools
-![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,rust,tailwind,nodejs,cs,docker,git,linux,react,svelte,vscode)
+![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,rust,tailwind,nodejs,cs,docker,git,linux,react,vscode)
 
 ## Current Projects
 [![Lethal Company VR Mod](https://github-readme-stats.vercel.app/api/pin/?username=daxcess&repo=LCVR&show_owner=true&theme=dark&icon_color=7d8590&bg_color=0d1117&border_color=30363d)](https://github.com/DaXcess/LCVR)
