@@ -17,7 +17,7 @@
 
 I'm a 21 year old self-taught software developer from the Amsterdam region. I sometimes also dabble in [cybersecurity](https://tryhackme.com/p/DaXcess).
 
-Currently obsessed with making VR mods 🎮
+Currently learning Unity 🎮
 
 <sub><sup>Wie dit leest is gek</sup></sub>
 
