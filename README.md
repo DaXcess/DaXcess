@@ -17,7 +17,7 @@
 
 I'm a 21 year old self-taught software developer from the Amsterdam region. I sometimes also dabble in [cybersecurity](https://tryhackme.com/p/DaXcess).
 
-Gonna be grinding AoC(ode/yber) for a while
+Gonna be grinding Advent of Cyber (sidequests) for a while
 
 <sub><sup>Wie dit leest is gek</sup></sub>
 
