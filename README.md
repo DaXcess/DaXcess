@@ -5,7 +5,7 @@
 </p>
 <p align="center">
   <a target="_blank" href="https://x.com/@daxcess"><img src="https://img.shields.io/badge/@daxcess-000000?style=for-the-badge&logo=x" /></a>
-  <a target="_blank" href="[https://x.com/@daxcess](https://bsky.app/profile/daxcess.io)"><img src="https://img.shields.io/badge/@daxcess.io-0285FF?style=for-the-badge&logo=bluesky&logoColor=fff" /></a>
+  <a target="_blank" href="https://bsky.app/profile/daxcess.io"><img src="https://img.shields.io/badge/@daxcess.io-0285FF?style=for-the-badge&logo=bluesky&logoColor=fff" /></a>
   <a target="_blank" href="https://discord.com/users/389786424142200835"><img src="https://img.shields.io/badge/%40daxcess-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
   <a target="_blank" href="https://youtube.com/DaXcess"><img src="https://img.shields.io/badge/DaXcess-FF0000?style=for-the-badge&logo=youtube" /></a>
   <a target="_blank" href="https://ko-fi.com/daxcess"><img src="https://img.shields.io/badge/DaXcess-ff5e5b?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
