@@ -16,7 +16,7 @@
 
 > *Build cool sh\*t!*
 
-I'm a 21 year old self-taught software developer from the Amsterdam region. I sometimes also dabble in [cybersecurity](https://tryhackme.com/p/DaXcess).
+I'm a 21 year old self-taught software developer from the Amsterdam region. I sometimes also dabble in cybersecurity.
 
 Ajfdajksbdakjdbasdaspdb
 
