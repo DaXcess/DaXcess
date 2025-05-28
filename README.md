@@ -29,5 +29,5 @@ Ajfdajksbdakjdbasdaspdb
 
 ## Current Projects
 [![Lethal Company VR Mod](https://github-readme-stats.vercel.app/api/pin/?username=daxcess&repo=LCVR&show_owner=true&theme=dark&icon_color=7d8590&bg_color=0d1117&border_color=30363d)](https://github.com/DaXcess/LCVR)
-[![R.E.P.O. VR Mod](https://github-readme-stats.vercel.app/api/pin/?username=daxcess&repo=RepoXR-Placeholder&show_owner=true&theme=dark&icon_color=7d8590&bg_color=0d1117&border_color=30363d)](https://github.com/DaXcess/RepoXR-Placeholder)
+[![R.E.P.O. VR Mod](https://github-readme-stats.vercel.app/api/pin/?username=daxcess&repo=RepoXR&show_owner=true&theme=dark&icon_color=7d8590&bg_color=0d1117&border_color=30363d)](https://github.com/DaXcess/RepoXR)
 [![Spoticord](https://github-readme-stats.vercel.app/api/pin/?username=SpoticordMusic&repo=spoticord&show_owner=true&theme=dark&icon_color=7d8590&bg_color=0d1117&border_color=30363d)](https://github.com/SpoticordMusic/spoticord)
