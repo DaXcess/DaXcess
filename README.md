@@ -16,7 +16,7 @@
 
 > *Build cool sh\*t!*
 
-I'm a 21 year old self-taught software developer from the Amsterdam region. I sometimes also dabble in cybersecurity.
+I'm a 22 year old self-taught software developer from the Amsterdam region. I sometimes also dabble in cybersecurity.
 
 Ajfdajksbdakjdbasdaspdb
 
