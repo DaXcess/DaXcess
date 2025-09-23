@@ -16,9 +16,9 @@
 
 > *Build cool sh\*t!*
 
-I'm a 22 year old self-taught software developer from the Amsterdam region. I sometimes also dabble in cybersecurity.
+I'm a 22 year old self-taught software developer and hobbyist hacker from Amsterdam.
 
-Ajfdajksbdakjdbasdaspdb
+<img width="599" height="139" alt="image" src="https://github.com/user-attachments/assets/3b58c1b1-5578-4eb4-907c-123d8bb960f8" />
 
 <sub><sup>Wie dit leest is gek</sup></sub>
 
